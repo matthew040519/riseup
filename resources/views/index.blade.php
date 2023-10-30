@@ -269,7 +269,7 @@
             </div>
             <div class="detail-box">
               <h5>
-                Visionsss
+                Vision
               </h5>
               <p>
               Our Vision is to lessen or ease the Poverty  and malnutrition rate and help government to raise up the Economy  in the country by the Year 2028
