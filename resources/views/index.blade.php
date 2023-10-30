@@ -17,7 +17,7 @@
                       Digital Marketing Experts
                     </h1>
                     <p>
-                      Aenean scelerisque felis ut orci condimentum laoreet. Integer nisi nisl, convallis et augue sit amet, lobortis semper quam.
+                    Statement....
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
@@ -98,24 +98,25 @@
     <div class="container">
       <div class="heading_container">
         <h2>
-          Our Services
+          Our Products
         </h2>
         <p>
-          consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Statement....
         </p>
       </div>
       <div class="row">
+        @for($x = 0; $x < 4; $x++)
         <div class="col-md-6 col-lg-3">
           <div class="box">
             <div class="img-box">
-              <img src="images/s1.png" alt="">
+              <img src="images/default.png" width="300" alt="">
             </div>
             <div class="detail-box">
               <h5>
-                Link Building
+                Sample Product
               </h5>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                Statement....
               </p>
               <a href="">
                 <span>
@@ -126,69 +127,7 @@
             </div>
           </div>
         </div>
-        <div class="col-md-6 col-lg-3">
-          <div class="box">
-            <div class="img-box">
-              <img src="images/s2.png" alt="">
-            </div>
-            <div class="detail-box">
-              <h5>
-                On page SEO
-              </h5>
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-              </p>
-              <a href="">
-                <span>
-                  Read More
-                </span>
-                <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-3">
-          <div class="box">
-            <div class="img-box">
-              <img src="images/s3.png" alt="">
-            </div>
-            <div class="detail-box">
-              <h5>
-                Online Marketing
-              </h5>
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-              </p>
-              <a href="">
-                <span>
-                  Read More
-                </span>
-                <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-3">
-          <div class="box">
-            <div class="img-box">
-              <img src="images/s4.png" alt="">
-            </div>
-            <div class="detail-box">
-              <h5>
-                Email Marketing
-              </h5>
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-              </p>
-              <a href="">
-                <span>
-                  Read More
-                </span>
-                <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
-              </a>
-            </div>
-          </div>
-        </div>
+        @endfor
       </div>
       <div class="btn-box">
         <a href="">
@@ -356,13 +295,7 @@
                       <i class="fa fa-quote-left" aria-hidden="true"></i>
                     </div>
                     <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                      labore
-                      et
-                      dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                      aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                      cillum
-                      dolore eu fugia
+                    Statement....
                     </p>
                   </div>
                 </div>
@@ -391,13 +324,7 @@
                       <i class="fa fa-quote-left" aria-hidden="true"></i>
                     </div>
                     <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                      labore
-                      et
-                      dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                      aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                      cillum
-                      dolore eu fugia
+                    Statement....
                     </p>
                   </div>
                 </div>
