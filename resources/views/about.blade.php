@@ -1,7 +1,10 @@
 @extends('layout.landingpage')
 @section('content')
+<div class="hero_area">
+@include('layout.landingheader')
+</div>
 
-  <section class="about_section mb-5">
+  <section class="about_section layout_padding mt-3 mb-3">
     <div class="container  ">
       <div class="row">
         <div class="col-md-6">
@@ -31,5 +34,5 @@
       </div>
     </div>
   </section>
-  </div>
+ 
 @endsection

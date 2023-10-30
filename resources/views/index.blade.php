@@ -1,5 +1,8 @@
 @extends('layout.landingpage')
 @section('content')
+
+<div class="hero_area">
+@include('layout.landingheader')
 <section class="slider_section ">
       <div id="customCarousel1" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">

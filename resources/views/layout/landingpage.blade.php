@@ -31,11 +31,9 @@
 
 </head>
 
-<body>
+<body class="sub_page">
 
-  <div class="hero_area">
-    <!-- header section strats -->
-    @include('layout.landingheader')
+
     <!-- end header section -->
     <!-- slider section -->
     @yield('content')
