@@ -1,6 +1,10 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Livewire\Index;
+use App\Livewire\About;
+use App\Livewire\OurProducts;
+
 
 /*
 |--------------------------------------------------------------------------
@@ -13,14 +17,8 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('index');
-});
+Route::get('/', Index::class);
 
-Route::get('/about', function () {
-    return view('about');
-});
+Route::get('/about', About::class);
 
-Route::get('/our-products', function () {
-    return view('products');
-});
+Route::get('/our-products', OurProducts::class );

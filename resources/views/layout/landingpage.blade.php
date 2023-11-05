@@ -12,7 +12,7 @@
   <meta name="description" content="" />
   <meta name="author" content="" />
 
-  <title>Digian</title>
+  <title>RISE UP</title>
 
 
   <!-- bootstrap core css -->
@@ -28,6 +28,7 @@
 
   <link rel="preconnect" href="https://fonts.bunny.net">
   <link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet" />
+  <link rel="shortcut icon" href="{{ asset('images/riseup.png') }}" type="image/x-icon">
 
 </head>
 
